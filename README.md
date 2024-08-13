@@ -1,1 +1,2 @@
-# TOURISM-MANAGEMENT-SYSTEM-TEAM2
+The Tourism Management System with Source Code is a project that can book a travel destination and reserve for available travel. The system can organize the ticket reservation allow you to book a ticket. The purpose of the system efficiently organize the booking of ticket.
+The Tourism Management System was developed in a simple console application, the system can be accessed and handled easily . The user can do many things in the system, he/she can add Book a package, check packages available ,and get their bill instantly. The Tourism Management System was created in a simple coding principle of C programming language that provide basic learning.
